@@ -40,10 +40,10 @@ namespace Lab1Part1
             }
             //Converts second input from a string directly to an integer array.
             inputArrayTwo = ToNumberArray(userInputTwo);
-            //Checks that the number of digits in each number is equal.
-            while (inputArrayOne.Length != inputArrayTwo.Length)
+            //Checks that the number of digits in each number is equal (now that the second array is defined with integers).
+            while (inputArrayOne.Length != inputArrayTwo.Length || WholePositiveNumberCheck(userInputTwo) == false)
             {
-                //While they are not equal, user is prompted to try again. Variable and array are reassigned.
+                //While they are not equal (or incorrect format), user is prompted to try again. Variable and array are reassigned.
                 Console.WriteLine("The second number must have {0} digits, please try again: ", inputArrayOne.Length);
                 userInputTwo = Console.ReadLine();
                 inputArrayTwo = ToNumberArray(userInputTwo);

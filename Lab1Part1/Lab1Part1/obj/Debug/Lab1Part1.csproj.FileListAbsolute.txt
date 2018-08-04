@@ -5,3 +5,10 @@ C:\Users\Andre\source\repos\Lab1Part1\Lab1Part1\obj\Debug\Lab1Part1.csprojAssemb
 C:\Users\Andre\source\repos\Lab1Part1\Lab1Part1\obj\Debug\Lab1Part1.csproj.CoreCompileInputs.cache
 C:\Users\Andre\source\repos\Lab1Part1\Lab1Part1\obj\Debug\Lab1Part1.exe
 C:\Users\Andre\source\repos\Lab1Part1\Lab1Part1\obj\Debug\Lab1Part1.pdb
+C:\Users\Andre\Documents\grandCircusPrework\Lab1Part1\Lab1Part1\bin\Debug\Lab1Part1.exe.config
+C:\Users\Andre\Documents\grandCircusPrework\Lab1Part1\Lab1Part1\bin\Debug\Lab1Part1.exe
+C:\Users\Andre\Documents\grandCircusPrework\Lab1Part1\Lab1Part1\bin\Debug\Lab1Part1.pdb
+C:\Users\Andre\Documents\grandCircusPrework\Lab1Part1\Lab1Part1\obj\Debug\Lab1Part1.csprojAssemblyReference.cache
+C:\Users\Andre\Documents\grandCircusPrework\Lab1Part1\Lab1Part1\obj\Debug\Lab1Part1.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\grandCircusPrework\Lab1Part1\Lab1Part1\obj\Debug\Lab1Part1.exe
+C:\Users\Andre\Documents\grandCircusPrework\Lab1Part1\Lab1Part1\obj\Debug\Lab1Part1.pdb
